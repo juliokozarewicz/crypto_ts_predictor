@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Non-seasonal differences needed for stationarity: 1
+
+Variable: btc_usd
+ADF Test: -25.737935
+P-value: 0.000000
+Lags: 0
+Observations: 606
+Critical values:
+  1%: -3.973787
+  5%: -3.417760
+  10%: -3.131327
+--------------------------------------------------

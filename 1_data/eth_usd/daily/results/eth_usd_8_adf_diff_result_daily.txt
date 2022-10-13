@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Non-seasonal differences needed for stationarity: 1
+
+Variable: eth_usd
+ADF Test: -27.176752
+P-value: 0.000000
+Lags: 0
+Observations: 637
+Critical values:
+  1%: -3.973053
+  5%: -3.417405
+  10%: -3.131119
+--------------------------------------------------

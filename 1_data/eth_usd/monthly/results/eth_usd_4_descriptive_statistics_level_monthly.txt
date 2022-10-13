@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: eth_usd (level)
+Mean: 960.34
+Median: 352.75
+Sample std: 1188.88
+Variance: 1413430.26
+Lowest: 10.73
+Highest: 4631.48
+--------------------------------------------------
